@@ -1,0 +1,11 @@
+C:\Users\gerol\Desktop\Comunidad\12345555\bin\Debug\netcoreapp3.1\12345555.exe
+C:\Users\gerol\Desktop\Comunidad\12345555\bin\Debug\netcoreapp3.1\12345555.deps.json
+C:\Users\gerol\Desktop\Comunidad\12345555\bin\Debug\netcoreapp3.1\12345555.runtimeconfig.json
+C:\Users\gerol\Desktop\Comunidad\12345555\bin\Debug\netcoreapp3.1\12345555.runtimeconfig.dev.json
+C:\Users\gerol\Desktop\Comunidad\12345555\bin\Debug\netcoreapp3.1\12345555.dll
+C:\Users\gerol\Desktop\Comunidad\12345555\bin\Debug\netcoreapp3.1\12345555.pdb
+C:\Users\gerol\Desktop\Comunidad\12345555\obj\Debug\netcoreapp3.1\12345555.csprojAssemblyReference.cache
+C:\Users\gerol\Desktop\Comunidad\12345555\obj\Debug\netcoreapp3.1\12345555.AssemblyInfoInputs.cache
+C:\Users\gerol\Desktop\Comunidad\12345555\obj\Debug\netcoreapp3.1\12345555.AssemblyInfo.cs
+C:\Users\gerol\Desktop\Comunidad\12345555\obj\Debug\netcoreapp3.1\12345555.dll
+C:\Users\gerol\Desktop\Comunidad\12345555\obj\Debug\netcoreapp3.1\12345555.pdb

@@ -1,0 +1,593 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.IoC\\Comunidad.IoC.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.Conexion\\Comunidad.Conexion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.Conexion\\Comunidad.Conexion.csproj",
+        "projectName": "Comunidad.Conexion",
+        "projectPath": "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.Conexion\\Comunidad.Conexion.csproj",
+        "packagesPath": "C:\\Users\\gerol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.Conexion\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gerol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.Constantes\\Comunidad.Constantes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.Constantes\\Comunidad.Constantes.csproj",
+        "projectName": "Comunidad.Constantes",
+        "projectPath": "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.Constantes\\Comunidad.Constantes.csproj",
+        "packagesPath": "C:\\Users\\gerol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.Constantes\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gerol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.Dominio\\Comunidad.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.Dominio\\Comunidad.Dominio.csproj",
+        "projectName": "Comunidad.Dominio",
+        "projectPath": "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.Dominio\\Comunidad.Dominio.csproj",
+        "packagesPath": "C:\\Users\\gerol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gerol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.Constantes\\Comunidad.Constantes.csproj": {
+                "projectPath": "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.Constantes\\Comunidad.Constantes.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.Implementacion\\Comunidad.Implementacion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.Implementacion\\Comunidad.Implementacion.csproj",
+        "projectName": "Comunidad.Implementacion",
+        "projectPath": "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.Implementacion\\Comunidad.Implementacion.csproj",
+        "packagesPath": "C:\\Users\\gerol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.Implementacion\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gerol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.Dominio\\Comunidad.Dominio.csproj": {
+                "projectPath": "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.Dominio\\Comunidad.Dominio.csproj"
+              },
+              "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.Infraestructura\\Comunidad.Infraestructura.csproj": {
+                "projectPath": "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.Infraestructura\\Comunidad.Infraestructura.csproj"
+              },
+              "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.Interfaces\\Comunidad.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.Interfaces\\Comunidad.Interfaces.csproj"
+              },
+              "C:\\Users\\gerol\\Desktop\\Comunidad\\MapperProfiles\\MapperProfiles.csproj": {
+                "projectPath": "C:\\Users\\gerol\\Desktop\\Comunidad\\MapperProfiles\\MapperProfiles.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.Infraestructura\\Comunidad.Infraestructura.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.Infraestructura\\Comunidad.Infraestructura.csproj",
+        "projectName": "Comunidad.Infraestructura",
+        "projectPath": "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.Infraestructura\\Comunidad.Infraestructura.csproj",
+        "packagesPath": "C:\\Users\\gerol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.Infraestructura\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gerol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.Conexion\\Comunidad.Conexion.csproj": {
+                "projectPath": "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.Conexion\\Comunidad.Conexion.csproj"
+              },
+              "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.Dominio\\Comunidad.Dominio.csproj": {
+                "projectPath": "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.Dominio\\Comunidad.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.Interfaces\\Comunidad.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.Interfaces\\Comunidad.Interfaces.csproj",
+        "projectName": "Comunidad.Interfaces",
+        "projectPath": "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.Interfaces\\Comunidad.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\gerol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gerol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.Dominio\\Comunidad.Dominio.csproj": {
+                "projectPath": "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.Dominio\\Comunidad.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.IoC\\Comunidad.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.IoC\\Comunidad.IoC.csproj",
+        "projectName": "Comunidad.IoC",
+        "projectPath": "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.IoC\\Comunidad.IoC.csproj",
+        "packagesPath": "C:\\Users\\gerol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gerol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.Implementacion\\Comunidad.Implementacion.csproj": {
+                "projectPath": "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.Implementacion\\Comunidad.Implementacion.csproj"
+              },
+              "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.Interfaces\\Comunidad.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.Interfaces\\Comunidad.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gerol\\Desktop\\Comunidad\\MapperProfiles\\MapperProfiles.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gerol\\Desktop\\Comunidad\\MapperProfiles\\MapperProfiles.csproj",
+        "projectName": "MapperProfiles",
+        "projectPath": "C:\\Users\\gerol\\Desktop\\Comunidad\\MapperProfiles\\MapperProfiles.csproj",
+        "packagesPath": "C:\\Users\\gerol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gerol\\Desktop\\Comunidad\\MapperProfiles\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gerol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.Interfaces\\Comunidad.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\gerol\\Desktop\\Comunidad\\Comunidad.Interfaces\\Comunidad.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Conexion\bin\Debug\netcoreapp2.2\Comunidad.Conexion.deps.json
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Conexion\bin\Debug\netcoreapp2.2\Comunidad.Conexion.dll
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Conexion\bin\Debug\netcoreapp2.2\Comunidad.Conexion.pdb
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Conexion\obj\Debug\netcoreapp2.2\Comunidad.Conexion.csproj.CoreCompileInputs.cache
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Conexion\obj\Debug\netcoreapp2.2\Comunidad.Conexion.AssemblyInfoInputs.cache
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Conexion\obj\Debug\netcoreapp2.2\Comunidad.Conexion.AssemblyInfo.cs
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Conexion\obj\Debug\netcoreapp2.2\Comunidad.Conexion.dll
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Conexion\obj\Debug\netcoreapp2.2\Comunidad.Conexion.pdb
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Conexion\obj\Debug\netcoreapp2.2\Comunidad.Conexion.csprojAssemblyReference.cache
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Conexion\bin\Debug\netcoreapp2.2\Comunidad.Conexion.deps.json
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Conexion\bin\Debug\netcoreapp2.2\Comunidad.Conexion.dll
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Conexion\bin\Debug\netcoreapp2.2\Comunidad.Conexion.pdb
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Conexion\obj\Debug\netcoreapp2.2\Comunidad.Conexion.csproj.CoreCompileInputs.cache
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Conexion\obj\Debug\netcoreapp2.2\Comunidad.Conexion.AssemblyInfoInputs.cache
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Conexion\obj\Debug\netcoreapp2.2\Comunidad.Conexion.AssemblyInfo.cs
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Conexion\obj\Debug\netcoreapp2.2\Comunidad.Conexion.dll
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Conexion\obj\Debug\netcoreapp2.2\Comunidad.Conexion.pdb
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Conexion\obj\Debug\netcoreapp2.2\Comunidad.Conexion.csprojAssemblyReference.cache
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Conexion\bin\Debug\netcoreapp2.2\Comunidad.Conexion.deps.json
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Conexion\bin\Debug\netcoreapp2.2\Comunidad.Conexion.dll
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Conexion\bin\Debug\netcoreapp2.2\Comunidad.Conexion.pdb
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Conexion\obj\Debug\netcoreapp2.2\Comunidad.Conexion.csprojAssemblyReference.cache
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Conexion\obj\Debug\netcoreapp2.2\Comunidad.Conexion.AssemblyInfoInputs.cache
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Conexion\obj\Debug\netcoreapp2.2\Comunidad.Conexion.AssemblyInfo.cs
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Conexion\obj\Debug\netcoreapp2.2\Comunidad.Conexion.dll
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Conexion\obj\Debug\netcoreapp2.2\Comunidad.Conexion.pdb

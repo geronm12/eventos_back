@@ -1,0 +1,48 @@
+F:\Personal CAD\Comunidad\Comunidad.Interfaces\bin\Debug\netcoreapp2.2\Comunidad.Interfaces.deps.json
+F:\Personal CAD\Comunidad\Comunidad.Interfaces\bin\Debug\netcoreapp2.2\Comunidad.Interfaces.dll
+F:\Personal CAD\Comunidad\Comunidad.Interfaces\obj\Debug\netcoreapp2.2\Comunidad.Interfaces.csproj.CoreCompileInputs.cache
+F:\Personal CAD\Comunidad\Comunidad.Interfaces\obj\Debug\netcoreapp2.2\Comunidad.Interfaces.AssemblyInfoInputs.cache
+F:\Personal CAD\Comunidad\Comunidad.Interfaces\obj\Debug\netcoreapp2.2\Comunidad.Interfaces.AssemblyInfo.cs
+F:\Personal CAD\Comunidad\Comunidad.Interfaces\obj\Debug\netcoreapp2.2\Comunidad.Interfaces.csprojAssemblyReference.cache
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Interfaces\bin\Debug\netcoreapp2.2\Comunidad.Interfaces.deps.json
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Interfaces\bin\Debug\netcoreapp2.2\Comunidad.Interfaces.runtimeconfig.json
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Interfaces\bin\Debug\netcoreapp2.2\Comunidad.Interfaces.runtimeconfig.dev.json
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Interfaces\bin\Debug\netcoreapp2.2\Comunidad.Interfaces.dll
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Interfaces\bin\Debug\netcoreapp2.2\Comunidad.Interfaces.pdb
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Interfaces\obj\Debug\netcoreapp2.2\Comunidad.Interfaces.csprojAssemblyReference.cache
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Interfaces\obj\Debug\netcoreapp2.2\Comunidad.Interfaces.csproj.CoreCompileInputs.cache
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Interfaces\obj\Debug\netcoreapp2.2\Comunidad.Interfaces.AssemblyInfoInputs.cache
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Interfaces\obj\Debug\netcoreapp2.2\Comunidad.Interfaces.AssemblyInfo.cs
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Interfaces\obj\Debug\netcoreapp2.2\Comunidad.Interfaces.dll
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Interfaces\obj\Debug\netcoreapp2.2\Comunidad.Interfaces.pdb
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Interfaces\bin\Debug\netcoreapp2.2\Comunidad.Interfaces.deps.json
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Interfaces\bin\Debug\netcoreapp2.2\Comunidad.Interfaces.runtimeconfig.json
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Interfaces\bin\Debug\netcoreapp2.2\Comunidad.Interfaces.runtimeconfig.dev.json
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Interfaces\bin\Debug\netcoreapp2.2\Comunidad.Interfaces.dll
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Interfaces\bin\Debug\netcoreapp2.2\Comunidad.Interfaces.pdb
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Interfaces\bin\Debug\netcoreapp2.2\Comunidad.Constantes.dll
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Interfaces\bin\Debug\netcoreapp2.2\Comunidad.Dominio.dll
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Interfaces\bin\Debug\netcoreapp2.2\Comunidad.Dominio.pdb
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Interfaces\bin\Debug\netcoreapp2.2\Comunidad.Constantes.pdb
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Interfaces\obj\Debug\netcoreapp2.2\Comunidad.Interfaces.csprojAssemblyReference.cache
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Interfaces\obj\Debug\netcoreapp2.2\Comunidad.Interfaces.csproj.CoreCompileInputs.cache
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Interfaces\obj\Debug\netcoreapp2.2\Comunidad.Interfaces.AssemblyInfoInputs.cache
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Interfaces\obj\Debug\netcoreapp2.2\Comunidad.Interfaces.AssemblyInfo.cs
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Interfaces\obj\Debug\netcoreapp2.2\Comunidad.Interfaces.csproj.CopyComplete
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Interfaces\obj\Debug\netcoreapp2.2\Comunidad.Interfaces.dll
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Interfaces\obj\Debug\netcoreapp2.2\Comunidad.Interfaces.pdb
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Interfaces\bin\Debug\netcoreapp2.2\Comunidad.Interfaces.deps.json
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Interfaces\bin\Debug\netcoreapp2.2\Comunidad.Interfaces.runtimeconfig.json
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Interfaces\bin\Debug\netcoreapp2.2\Comunidad.Interfaces.runtimeconfig.dev.json
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Interfaces\bin\Debug\netcoreapp2.2\Comunidad.Interfaces.dll
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Interfaces\bin\Debug\netcoreapp2.2\Comunidad.Interfaces.pdb
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Interfaces\bin\Debug\netcoreapp2.2\Comunidad.Constantes.dll
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Interfaces\bin\Debug\netcoreapp2.2\Comunidad.Dominio.dll
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Interfaces\bin\Debug\netcoreapp2.2\Comunidad.Dominio.pdb
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Interfaces\bin\Debug\netcoreapp2.2\Comunidad.Constantes.pdb
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Interfaces\obj\Debug\netcoreapp2.2\Comunidad.Interfaces.csprojAssemblyReference.cache
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Interfaces\obj\Debug\netcoreapp2.2\Comunidad.Interfaces.AssemblyInfoInputs.cache
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Interfaces\obj\Debug\netcoreapp2.2\Comunidad.Interfaces.AssemblyInfo.cs
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Interfaces\obj\Debug\netcoreapp2.2\Comunidad.Interfaces.csproj.CopyComplete
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Interfaces\obj\Debug\netcoreapp2.2\Comunidad.Interfaces.dll
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Interfaces\obj\Debug\netcoreapp2.2\Comunidad.Interfaces.pdb

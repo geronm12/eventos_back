@@ -1,0 +1,25 @@
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Impresion\bin\Debug\netcoreapp2.2\Comunidad.Impresion.deps.json
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Impresion\bin\Debug\netcoreapp2.2\Comunidad.Impresion.dll
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Impresion\bin\Debug\netcoreapp2.2\Comunidad.Impresion.pdb
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Impresion\obj\Debug\netcoreapp2.2\Comunidad.Impresion.csproj.CoreCompileInputs.cache
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Impresion\obj\Debug\netcoreapp2.2\Comunidad.Impresion.AssemblyInfoInputs.cache
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Impresion\obj\Debug\netcoreapp2.2\Comunidad.Impresion.AssemblyInfo.cs
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Impresion\obj\Debug\netcoreapp2.2\Comunidad.Impresion.dll
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Impresion\obj\Debug\netcoreapp2.2\Comunidad.Impresion.pdb
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Impresion\bin\Debug\netcoreapp2.2\Comunidad.Impresion.deps.json
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Impresion\bin\Debug\netcoreapp2.2\Comunidad.Impresion.dll
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Impresion\bin\Debug\netcoreapp2.2\Comunidad.Impresion.pdb
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Impresion\obj\Debug\netcoreapp2.2\Comunidad.Impresion.csproj.CoreCompileInputs.cache
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Impresion\obj\Debug\netcoreapp2.2\Comunidad.Impresion.AssemblyInfoInputs.cache
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Impresion\obj\Debug\netcoreapp2.2\Comunidad.Impresion.AssemblyInfo.cs
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Impresion\obj\Debug\netcoreapp2.2\Comunidad.Impresion.dll
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Impresion\obj\Debug\netcoreapp2.2\Comunidad.Impresion.pdb
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Impresion\obj\Debug\netcoreapp2.2\Comunidad.Impresion.csprojAssemblyReference.cache
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Impresion\bin\Debug\netcoreapp2.2\Comunidad.Impresion.deps.json
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Impresion\bin\Debug\netcoreapp2.2\Comunidad.Impresion.dll
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Impresion\bin\Debug\netcoreapp2.2\Comunidad.Impresion.pdb
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Impresion\obj\Debug\netcoreapp2.2\Comunidad.Impresion.csprojAssemblyReference.cache
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Impresion\obj\Debug\netcoreapp2.2\Comunidad.Impresion.AssemblyInfoInputs.cache
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Impresion\obj\Debug\netcoreapp2.2\Comunidad.Impresion.AssemblyInfo.cs
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Impresion\obj\Debug\netcoreapp2.2\Comunidad.Impresion.dll
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Impresion\obj\Debug\netcoreapp2.2\Comunidad.Impresion.pdb

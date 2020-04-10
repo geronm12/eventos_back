@@ -1,0 +1,64 @@
+F:\Personal CAD\Comunidad\Comunidad.Implementacion\bin\Debug\netcoreapp2.2\Comunidad.Implementacion.deps.json
+F:\Personal CAD\Comunidad\Comunidad.Implementacion\bin\Debug\netcoreapp2.2\Comunidad.Implementacion.dll
+F:\Personal CAD\Comunidad\Comunidad.Implementacion\obj\Debug\netcoreapp2.2\Comunidad.Implementacion.csprojAssemblyReference.cache
+F:\Personal CAD\Comunidad\Comunidad.Implementacion\obj\Debug\netcoreapp2.2\Comunidad.Implementacion.csproj.CoreCompileInputs.cache
+F:\Personal CAD\Comunidad\Comunidad.Implementacion\obj\Debug\netcoreapp2.2\Comunidad.Implementacion.AssemblyInfoInputs.cache
+F:\Personal CAD\Comunidad\Comunidad.Implementacion\obj\Debug\netcoreapp2.2\Comunidad.Implementacion.AssemblyInfo.cs
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Implementacion\bin\Debug\netcoreapp2.2\Comunidad.Implementacion.deps.json
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Implementacion\bin\Debug\netcoreapp2.2\Comunidad.Implementacion.runtimeconfig.json
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Implementacion\bin\Debug\netcoreapp2.2\Comunidad.Implementacion.runtimeconfig.dev.json
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Implementacion\bin\Debug\netcoreapp2.2\Comunidad.Implementacion.dll
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Implementacion\bin\Debug\netcoreapp2.2\Comunidad.Implementacion.pdb
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Implementacion\obj\Debug\netcoreapp2.2\Comunidad.Implementacion.csproj.CoreCompileInputs.cache
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Implementacion\obj\Debug\netcoreapp2.2\Comunidad.Implementacion.AssemblyInfoInputs.cache
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Implementacion\obj\Debug\netcoreapp2.2\Comunidad.Implementacion.AssemblyInfo.cs
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Implementacion\obj\Debug\netcoreapp2.2\Comunidad.Implementacion.dll
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Implementacion\obj\Debug\netcoreapp2.2\Comunidad.Implementacion.pdb
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Implementacion\obj\Debug\netcoreapp2.2\Comunidad.Implementacion.csprojAssemblyReference.cache
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Implementacion\bin\Debug\netcoreapp2.2\Comunidad.Implementacion.deps.json
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Implementacion\bin\Debug\netcoreapp2.2\Comunidad.Implementacion.runtimeconfig.json
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Implementacion\bin\Debug\netcoreapp2.2\Comunidad.Implementacion.runtimeconfig.dev.json
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Implementacion\bin\Debug\netcoreapp2.2\Comunidad.Implementacion.dll
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Implementacion\bin\Debug\netcoreapp2.2\Comunidad.Implementacion.pdb
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Implementacion\bin\Debug\netcoreapp2.2\Comunidad.Conexion.dll
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Implementacion\bin\Debug\netcoreapp2.2\Comunidad.Constantes.dll
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Implementacion\bin\Debug\netcoreapp2.2\Comunidad.Dominio.dll
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Implementacion\bin\Debug\netcoreapp2.2\Comunidad.Infraestructura.dll
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Implementacion\bin\Debug\netcoreapp2.2\Comunidad.Interfaces.dll
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Implementacion\bin\Debug\netcoreapp2.2\Comunidad.Dominio.pdb
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Implementacion\bin\Debug\netcoreapp2.2\Comunidad.Infraestructura.pdb
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Implementacion\bin\Debug\netcoreapp2.2\Comunidad.Interfaces.pdb
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Implementacion\bin\Debug\netcoreapp2.2\Comunidad.Conexion.pdb
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Implementacion\bin\Debug\netcoreapp2.2\Comunidad.Constantes.pdb
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Implementacion\obj\Debug\netcoreapp2.2\Comunidad.Implementacion.csprojAssemblyReference.cache
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Implementacion\obj\Debug\netcoreapp2.2\Comunidad.Implementacion.csproj.CoreCompileInputs.cache
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Implementacion\obj\Debug\netcoreapp2.2\Comunidad.Implementacion.AssemblyInfoInputs.cache
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Implementacion\obj\Debug\netcoreapp2.2\Comunidad.Implementacion.AssemblyInfo.cs
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Implementacion\obj\Debug\netcoreapp2.2\Comunidad.Implementacion.csproj.CopyComplete
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Implementacion\obj\Debug\netcoreapp2.2\Comunidad.Implementacion.dll
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Implementacion\obj\Debug\netcoreapp2.2\Comunidad.Implementacion.pdb
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Implementacion\bin\Debug\netcoreapp2.2\MapperProfiles.dll
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Implementacion\bin\Debug\netcoreapp2.2\MapperProfiles.pdb
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Implementacion\bin\Debug\netcoreapp2.2\Comunidad.Implementacion.deps.json
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Implementacion\bin\Debug\netcoreapp2.2\Comunidad.Implementacion.runtimeconfig.json
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Implementacion\bin\Debug\netcoreapp2.2\Comunidad.Implementacion.runtimeconfig.dev.json
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Implementacion\bin\Debug\netcoreapp2.2\Comunidad.Implementacion.dll
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Implementacion\bin\Debug\netcoreapp2.2\Comunidad.Implementacion.pdb
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Implementacion\bin\Debug\netcoreapp2.2\Comunidad.Conexion.dll
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Implementacion\bin\Debug\netcoreapp2.2\Comunidad.Constantes.dll
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Implementacion\bin\Debug\netcoreapp2.2\Comunidad.Dominio.dll
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Implementacion\bin\Debug\netcoreapp2.2\Comunidad.Infraestructura.dll
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Implementacion\bin\Debug\netcoreapp2.2\Comunidad.Interfaces.dll
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Implementacion\bin\Debug\netcoreapp2.2\MapperProfiles.dll
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Implementacion\bin\Debug\netcoreapp2.2\Comunidad.Dominio.pdb
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Implementacion\bin\Debug\netcoreapp2.2\Comunidad.Infraestructura.pdb
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Implementacion\bin\Debug\netcoreapp2.2\Comunidad.Interfaces.pdb
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Implementacion\bin\Debug\netcoreapp2.2\MapperProfiles.pdb
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Implementacion\bin\Debug\netcoreapp2.2\Comunidad.Conexion.pdb
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Implementacion\bin\Debug\netcoreapp2.2\Comunidad.Constantes.pdb
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Implementacion\obj\Debug\netcoreapp2.2\Comunidad.Implementacion.csprojAssemblyReference.cache
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Implementacion\obj\Debug\netcoreapp2.2\Comunidad.Implementacion.AssemblyInfoInputs.cache
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Implementacion\obj\Debug\netcoreapp2.2\Comunidad.Implementacion.AssemblyInfo.cs
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Implementacion\obj\Debug\netcoreapp2.2\Comunidad.Implementacion.csproj.CopyComplete
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Implementacion\obj\Debug\netcoreapp2.2\Comunidad.Implementacion.dll
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Implementacion\obj\Debug\netcoreapp2.2\Comunidad.Implementacion.pdb

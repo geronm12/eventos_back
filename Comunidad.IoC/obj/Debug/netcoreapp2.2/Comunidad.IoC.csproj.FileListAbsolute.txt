@@ -1,0 +1,67 @@
+F:\Personal CAD\Comunidad\Comunidad.IoC\bin\Debug\netcoreapp2.2\Comunidad.IoC.deps.json
+F:\Personal CAD\Comunidad\Comunidad.IoC\bin\Debug\netcoreapp2.2\Comunidad.IoC.dll
+F:\Personal CAD\Comunidad\Comunidad.IoC\obj\Debug\netcoreapp2.2\Comunidad.IoC.csprojAssemblyReference.cache
+F:\Personal CAD\Comunidad\Comunidad.IoC\obj\Debug\netcoreapp2.2\Comunidad.IoC.csproj.CoreCompileInputs.cache
+F:\Personal CAD\Comunidad\Comunidad.IoC\obj\Debug\netcoreapp2.2\Comunidad.IoC.AssemblyInfoInputs.cache
+F:\Personal CAD\Comunidad\Comunidad.IoC\obj\Debug\netcoreapp2.2\Comunidad.IoC.AssemblyInfo.cs
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.IoC\bin\Debug\netcoreapp2.2\Comunidad.IoC.deps.json
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.IoC\bin\Debug\netcoreapp2.2\Comunidad.IoC.runtimeconfig.json
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.IoC\bin\Debug\netcoreapp2.2\Comunidad.IoC.runtimeconfig.dev.json
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.IoC\bin\Debug\netcoreapp2.2\Comunidad.IoC.dll
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.IoC\bin\Debug\netcoreapp2.2\Comunidad.IoC.pdb
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.IoC\obj\Debug\netcoreapp2.2\Comunidad.IoC.csproj.CoreCompileInputs.cache
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.IoC\obj\Debug\netcoreapp2.2\Comunidad.IoC.AssemblyInfoInputs.cache
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.IoC\obj\Debug\netcoreapp2.2\Comunidad.IoC.AssemblyInfo.cs
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.IoC\obj\Debug\netcoreapp2.2\Comunidad.IoC.dll
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.IoC\obj\Debug\netcoreapp2.2\Comunidad.IoC.pdb
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.IoC\bin\Debug\netcoreapp2.2\Comunidad.IoC.deps.json
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.IoC\bin\Debug\netcoreapp2.2\Comunidad.IoC.runtimeconfig.json
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.IoC\bin\Debug\netcoreapp2.2\Comunidad.IoC.runtimeconfig.dev.json
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.IoC\bin\Debug\netcoreapp2.2\Comunidad.IoC.dll
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.IoC\bin\Debug\netcoreapp2.2\Comunidad.IoC.pdb
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.IoC\obj\Debug\netcoreapp2.2\Comunidad.IoC.csprojAssemblyReference.cache
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.IoC\obj\Debug\netcoreapp2.2\Comunidad.IoC.csproj.CoreCompileInputs.cache
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.IoC\obj\Debug\netcoreapp2.2\Comunidad.IoC.AssemblyInfoInputs.cache
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.IoC\obj\Debug\netcoreapp2.2\Comunidad.IoC.AssemblyInfo.cs
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.IoC\obj\Debug\netcoreapp2.2\Comunidad.IoC.dll
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.IoC\obj\Debug\netcoreapp2.2\Comunidad.IoC.pdb
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.IoC\bin\Debug\netcoreapp2.2\Comunidad.Conexion.dll
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.IoC\bin\Debug\netcoreapp2.2\Comunidad.Constantes.dll
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.IoC\bin\Debug\netcoreapp2.2\Comunidad.Dominio.dll
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.IoC\bin\Debug\netcoreapp2.2\Comunidad.Implementacion.dll
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.IoC\bin\Debug\netcoreapp2.2\Comunidad.Infraestructura.dll
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.IoC\bin\Debug\netcoreapp2.2\Comunidad.Interfaces.dll
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.IoC\bin\Debug\netcoreapp2.2\Comunidad.Implementacion.pdb
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.IoC\bin\Debug\netcoreapp2.2\Comunidad.Interfaces.pdb
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.IoC\bin\Debug\netcoreapp2.2\Comunidad.Conexion.pdb
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.IoC\bin\Debug\netcoreapp2.2\Comunidad.Constantes.pdb
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.IoC\bin\Debug\netcoreapp2.2\Comunidad.Dominio.pdb
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.IoC\bin\Debug\netcoreapp2.2\Comunidad.Infraestructura.pdb
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.IoC\obj\Debug\netcoreapp2.2\Comunidad.IoC.csproj.CopyComplete
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.IoC\bin\Debug\netcoreapp2.2\MapperProfiles.dll
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.IoC\bin\Debug\netcoreapp2.2\MapperProfiles.pdb
+C:\Users\gerol\Desktop\Comunidad\Comunidad.IoC\bin\Debug\netcoreapp2.2\Comunidad.IoC.deps.json
+C:\Users\gerol\Desktop\Comunidad\Comunidad.IoC\bin\Debug\netcoreapp2.2\Comunidad.IoC.runtimeconfig.json
+C:\Users\gerol\Desktop\Comunidad\Comunidad.IoC\bin\Debug\netcoreapp2.2\Comunidad.IoC.runtimeconfig.dev.json
+C:\Users\gerol\Desktop\Comunidad\Comunidad.IoC\bin\Debug\netcoreapp2.2\Comunidad.IoC.dll
+C:\Users\gerol\Desktop\Comunidad\Comunidad.IoC\bin\Debug\netcoreapp2.2\Comunidad.IoC.pdb
+C:\Users\gerol\Desktop\Comunidad\Comunidad.IoC\bin\Debug\netcoreapp2.2\Comunidad.Conexion.dll
+C:\Users\gerol\Desktop\Comunidad\Comunidad.IoC\bin\Debug\netcoreapp2.2\Comunidad.Constantes.dll
+C:\Users\gerol\Desktop\Comunidad\Comunidad.IoC\bin\Debug\netcoreapp2.2\Comunidad.Dominio.dll
+C:\Users\gerol\Desktop\Comunidad\Comunidad.IoC\bin\Debug\netcoreapp2.2\Comunidad.Implementacion.dll
+C:\Users\gerol\Desktop\Comunidad\Comunidad.IoC\bin\Debug\netcoreapp2.2\Comunidad.Infraestructura.dll
+C:\Users\gerol\Desktop\Comunidad\Comunidad.IoC\bin\Debug\netcoreapp2.2\Comunidad.Interfaces.dll
+C:\Users\gerol\Desktop\Comunidad\Comunidad.IoC\bin\Debug\netcoreapp2.2\MapperProfiles.dll
+C:\Users\gerol\Desktop\Comunidad\Comunidad.IoC\bin\Debug\netcoreapp2.2\Comunidad.Implementacion.pdb
+C:\Users\gerol\Desktop\Comunidad\Comunidad.IoC\bin\Debug\netcoreapp2.2\Comunidad.Interfaces.pdb
+C:\Users\gerol\Desktop\Comunidad\Comunidad.IoC\bin\Debug\netcoreapp2.2\Comunidad.Conexion.pdb
+C:\Users\gerol\Desktop\Comunidad\Comunidad.IoC\bin\Debug\netcoreapp2.2\Comunidad.Constantes.pdb
+C:\Users\gerol\Desktop\Comunidad\Comunidad.IoC\bin\Debug\netcoreapp2.2\Comunidad.Dominio.pdb
+C:\Users\gerol\Desktop\Comunidad\Comunidad.IoC\bin\Debug\netcoreapp2.2\Comunidad.Infraestructura.pdb
+C:\Users\gerol\Desktop\Comunidad\Comunidad.IoC\bin\Debug\netcoreapp2.2\MapperProfiles.pdb
+C:\Users\gerol\Desktop\Comunidad\Comunidad.IoC\obj\Debug\netcoreapp2.2\Comunidad.IoC.csprojAssemblyReference.cache
+C:\Users\gerol\Desktop\Comunidad\Comunidad.IoC\obj\Debug\netcoreapp2.2\Comunidad.IoC.AssemblyInfoInputs.cache
+C:\Users\gerol\Desktop\Comunidad\Comunidad.IoC\obj\Debug\netcoreapp2.2\Comunidad.IoC.AssemblyInfo.cs
+C:\Users\gerol\Desktop\Comunidad\Comunidad.IoC\obj\Debug\netcoreapp2.2\Comunidad.IoC.csproj.CopyComplete
+C:\Users\gerol\Desktop\Comunidad\Comunidad.IoC\obj\Debug\netcoreapp2.2\Comunidad.IoC.dll
+C:\Users\gerol\Desktop\Comunidad\Comunidad.IoC\obj\Debug\netcoreapp2.2\Comunidad.IoC.pdb

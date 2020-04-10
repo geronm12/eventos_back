@@ -1,0 +1,25 @@
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Constantes\bin\Debug\netcoreapp2.2\Comunidad.Constantes.deps.json
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Constantes\bin\Debug\netcoreapp2.2\Comunidad.Constantes.dll
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Constantes\bin\Debug\netcoreapp2.2\Comunidad.Constantes.pdb
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Constantes\obj\Debug\netcoreapp2.2\Comunidad.Constantes.csproj.CoreCompileInputs.cache
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Constantes\obj\Debug\netcoreapp2.2\Comunidad.Constantes.AssemblyInfoInputs.cache
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Constantes\obj\Debug\netcoreapp2.2\Comunidad.Constantes.AssemblyInfo.cs
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Constantes\obj\Debug\netcoreapp2.2\Comunidad.Constantes.dll
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Constantes\obj\Debug\netcoreapp2.2\Comunidad.Constantes.pdb
+D:\Tecnicatura en Programacion\Laboratorio 3 2019\Comunidad\Comunidad.Constantes\obj\Debug\netcoreapp2.2\Comunidad.Constantes.csprojAssemblyReference.cache
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Constantes\bin\Debug\netcoreapp2.2\Comunidad.Constantes.deps.json
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Constantes\bin\Debug\netcoreapp2.2\Comunidad.Constantes.dll
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Constantes\bin\Debug\netcoreapp2.2\Comunidad.Constantes.pdb
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Constantes\obj\Debug\netcoreapp2.2\Comunidad.Constantes.csproj.CoreCompileInputs.cache
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Constantes\obj\Debug\netcoreapp2.2\Comunidad.Constantes.AssemblyInfoInputs.cache
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Constantes\obj\Debug\netcoreapp2.2\Comunidad.Constantes.AssemblyInfo.cs
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Constantes\obj\Debug\netcoreapp2.2\Comunidad.Constantes.dll
+Z:\Facultad\Laboratorio\Comunidad\Comunidad.Constantes\obj\Debug\netcoreapp2.2\Comunidad.Constantes.pdb
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Constantes\bin\Debug\netcoreapp2.2\Comunidad.Constantes.deps.json
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Constantes\bin\Debug\netcoreapp2.2\Comunidad.Constantes.dll
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Constantes\bin\Debug\netcoreapp2.2\Comunidad.Constantes.pdb
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Constantes\obj\Debug\netcoreapp2.2\Comunidad.Constantes.csprojAssemblyReference.cache
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Constantes\obj\Debug\netcoreapp2.2\Comunidad.Constantes.AssemblyInfoInputs.cache
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Constantes\obj\Debug\netcoreapp2.2\Comunidad.Constantes.AssemblyInfo.cs
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Constantes\obj\Debug\netcoreapp2.2\Comunidad.Constantes.dll
+C:\Users\gerol\Desktop\Comunidad\Comunidad.Constantes\obj\Debug\netcoreapp2.2\Comunidad.Constantes.pdb
